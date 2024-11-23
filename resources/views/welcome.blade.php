@@ -5,9 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Resume</title>
-
+        <link rel="stylesheet" href="{{ asset('css/welcome.css') }}">
     </head>
     <body>
-        <embed src="{{ asset('pdf/resume.pdf') }}" type="application/pdf" width="100%" height="100%">
+        <h1>Artur Mukhamediarov</h1>
+        <h2>PHP Backend Developer</h2>
+
     </body>
 </html>
