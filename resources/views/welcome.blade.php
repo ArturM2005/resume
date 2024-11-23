@@ -8,6 +8,6 @@
 
     </head>
     <body>
-       <img src="{{ asset('img/resume.png') }}" alt=""> 
+        <embed src="{{ asset('pdf/resume.pdf') }}" type="application/pdf" width="100%" height="100%">
     </body>
 </html>
